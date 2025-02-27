@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+streamlit  # If deploying as a web app (optional)
+flask  # If using Flask for deployment (optional)
+joblib  # For saving trained models
