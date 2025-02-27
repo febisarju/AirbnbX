@@ -1,4 +1,4 @@
-# AirbnbX : Market trends & price analysis
+# AirbnbX : Price analysis & prediction
 This project aims to analyze Airbnb listings and predict rental prices based on various factors like location, amenities, and demand. Using machine learning techniques, we derive insights and build an accurate regression model.
 
 Technologies Used:
