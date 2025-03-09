@@ -1,4 +1,4 @@
-# AirbnbX : Price analysis & prediction
+# Airbnb Price Prediction using Regression
 This project aims to analyze Airbnb listings and predict rental prices based on various factors like location, amenities, and demand. Using machine learning techniques, we derive insights and build an accurate regression model.
 
 Technologies Used:
