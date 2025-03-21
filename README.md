@@ -8,7 +8,7 @@ Features:
 
 Technologies Used:
 - Python: Data processing and model building.
-- Pandas: Data manipulation.
+- Pandas: Data manipulation. 
 - Seaborn & Matplotlib: Data visualization.
 - Scikit-Learn: Machine learning (Linear Regression, Decision Tree).
 - Jupyter Notebook: Development environment.
